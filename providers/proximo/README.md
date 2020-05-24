@@ -70,8 +70,8 @@ All classes in Airflow 2.0 are in `airflow.providers.proximo` package.
 
 | Airflow 2.0 operators: `airflow.providers.proximo` package                                                                                         |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------|
-| [operators.qubole.ProximoOperator](https://github.com/proximo-ai/airflow/blob/master/providers/proximo/operators/proximo.py)                       | 
-| [operators.qubole_check.ProximoCheckOperator](https://github.com/proximo-ai/airflow/blob/master/providers/proximo/operators/proximo_check.py)      |
+| [operators.proximo.ProximoOperator](https://github.com/proximo-ai/airflow/blob/master/providers/proximo/operators/proximo.py)                       | 
+| [operators.proximo_check.ProximoCheckOperator](https://github.com/proximo-ai/airflow/blob/master/providers/proximo/operators/proximo_check.py)      |
 
 
 
@@ -89,7 +89,7 @@ All classes in Airflow 2.0 are in `airflow.providers.proximo` package.
 
 
 
-| Airflow 2.0 hooks: `airflow.providers.qubole` package                                                                              |
+| Airflow 2.0 hooks: `airflow.providers.proximo` package                                                                              |
 |:-----------------------------------------------------------------------------------------------------------------------------------|
 | [hooks.proximo.ProximoHook](https://github.com/proximo-ai/airflow/blob/master/providers/proximo/hooks/proximo.py)                  |
 
